@@ -1,4 +1,4 @@
-# RankGifting
+# RankGift
 ## About:
 RankGift is a minecraft plugin that support's 1.8.8 Minecraft Versions For Paper/Spigot/Bukkit Servers Made By Herex_777.
 This plugin is a Remake of Hypixel RankGift System.
