@@ -26,4 +26,6 @@ This plugin is a Remake of Hypixel RankGift System.
 */rankgift reload*
 
 ## Availble Placeholders:
-*Coming Soon...*
+*%ranks_gifted_total%*
+
+*%ranks_gifted_now%*
